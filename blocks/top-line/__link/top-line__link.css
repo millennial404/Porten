@@ -1,4 +1,9 @@
 .top-line__link {
   text-decoration: none;
   margin: auto;
+  color: #969696;
+}
+
+.top-line__link:visited {
+  color: #969696;
 }

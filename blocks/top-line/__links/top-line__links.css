@@ -1,14 +1,10 @@
 .top-line__links {
   margin: auto 0;
   padding-left: 29px;
-  color: #969696;
   text-decoration: none;
   display: flex;
   gap: 5px;
   position: relative;
-}
-.top-line__links a:visited {
-  color: #969696;
 }
 
 .top-line__links:before {
