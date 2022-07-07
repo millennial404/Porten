@@ -1,0 +1,8 @@
+.top-line__links {
+  margin: auto 0;
+  color: #fff;
+  text-decoration: none;
+}
+.top-line__links a:visited {
+  color: #fff;
+}
