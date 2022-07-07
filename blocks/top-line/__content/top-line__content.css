@@ -1,0 +1,17 @@
+.top-line__content {
+  display: flex;
+  max-width: 1100px;
+  justify-content: space-between;
+  margin: auto;
+  color: #969696;
+  padding: 0 10px;
+  font-family: 'PT Sans';
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 400;
+}
+
+.top-line__content span {
+  display: inline-block;
+  padding: 0 10px;
+}

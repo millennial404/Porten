@@ -1,0 +1,22 @@
+.top-line__tel {
+  color: #969696;
+  text-decoration: none;
+  text-align: center;
+  position: relative;
+  padding-left: 31px;
+}
+.top-line__tel::before {
+  content: url(../../../img/Tel.svg);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 16px;
+  height: 16px;
+  line-height: 0;
+}
+.top-line__tel:visited {
+  color: #969696;
+}
+.top-line__tel:hover {
+  color: #969696;
+}

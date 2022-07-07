@@ -1,8 +1,21 @@
 .top-line__links {
   margin: auto 0;
-  color: #fff;
+  padding-left: 29px;
+  color: #969696;
   text-decoration: none;
+  display: flex;
+  gap: 5px;
+  position: relative;
 }
 .top-line__links a:visited {
-  color: #fff;
+  color: #969696;
+}
+
+.top-line__links:before {
+  content: url(../../../img/ic_sharp-log-in.svg);
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  top: 30%;
+  left: 0;
 }
