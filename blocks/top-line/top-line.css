@@ -1,4 +1,6 @@
 .top-line {
+  display: flex;
   width: 100%;
   background: #000;
+  min-height: 44px;
 }

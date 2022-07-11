@@ -1,0 +1,6 @@
+.second-line {
+  display: flex;
+  width: 100%;
+  background: #0F0F0F;
+  min-height: 80px;
+}

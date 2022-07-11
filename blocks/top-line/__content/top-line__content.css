@@ -1,5 +1,6 @@
 .top-line__content {
   display: flex;
+  width: 100%;
   max-width: 1100px;
   justify-content: space-between;
   margin: auto;
